@@ -1,7 +1,7 @@
 ######################################################################
 # CT60A0203 Ohjelmoinnin perusteet
 # Tekijä: Tuomas Lättilä
-# Opiskelijanumero: 000437136
+# Opiskelijanumero: 
 # Päivämäärä: 6.11.2022
 # Kurssin oppimateriaalien lisäksi työhön ovat vaikuttaneet seuraavat 
 # lähteet ja henkilöt, ja se näkyy tehtävässä seuraavalla tavalla:
